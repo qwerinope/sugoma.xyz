@@ -30,9 +30,9 @@
     <a href="https://sugoma.xyz">SUGOMA.XYZ</a> is a website dedicated to the
     worst amogus memes on the internet.
     <br />The source code is available on
-    <a href="https://github.com/qweri0p/sugoma.xyz">GitHub</a>.
+    <a href="https://github.com/qwerinope/sugoma.xyz">GitHub</a>.
     <br />Feel free to suggest new amogus memes at the
-    <a href="https://github.com/qweri0p/sugoma.xyz/issues">Github issues</a>
+    <a href="https://github.com/qwerinope/sugoma.xyz/issues">Github issues</a>
     page.
     <br />Don't forget to check out the
     <a href="https://steamcommunity.com/groups/sugoma-xyz"
