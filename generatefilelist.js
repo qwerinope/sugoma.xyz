@@ -25,7 +25,7 @@ const files = await fs.readdir("./public/memes");
 
 for (const file of files) {
   const filePath = path.join('./public/memes/', file);
-  array.push(filePath.slice(6))
+  array.push('/sugoma.xyz' + filePath.slice(6))
 }
 
 // Remove obamium from the array because that one is a secret
