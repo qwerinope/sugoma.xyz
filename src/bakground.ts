@@ -40,7 +40,7 @@ function addstar() {
 
 for (let i = 0; i < 2000; i++) addstar()
 
-const amogusTexture = new THREE.TextureLoader().load('/sus.png')
+const amogusTexture = new THREE.TextureLoader().load('/sugoma.xyz/sus.png')
 
 const geometry = new THREE.BoxGeometry(25, 25, 25)
 const material = new THREE.MeshBasicMaterial({ map: amogusTexture, color: 0xffffff })
